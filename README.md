@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<script src="https://platform.linkedin.com/badges/js/profile.js"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="om-gawande" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/om-gawande?trk=profile-badge">Om Gawande💫</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="om-gawande" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/om-gawande?trk=profile-badge">Om Gawande💫</a></div>
               
 <!---
 Spixer/Spixer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
